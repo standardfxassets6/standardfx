@@ -1,0 +1,255 @@
+[
+  {
+    "investmentId": 1,
+    "account": {
+      "accountId": 7,
+      "interestPreference": {
+        "cryptoId": 2,
+        "crypto": "Bitcoin",
+        "symbol": "BTC"
+      },
+      "accountBalance": 8660.0
+    },
+    "investedAmount": 8660,
+    "days": 1,
+    "startDate": "2023-04-12T07:33:57.558Z",
+    "endDate": "2023-04-13T07:33:57.558Z",
+    "percentage": 0,
+    "currency": {
+      "cryptoId": 2,
+      "crypto": "Bitcoin",
+      "symbol": "BTC"
+    },
+    "active": true
+  },
+  {
+    "investmentId": 2,
+    "account": {
+      "accountId": 21,
+      "interestPreference": {
+        "cryptoId": 2,
+        "crypto": "Bitcoin",
+        "symbol": "BTC"
+      },
+      "accountBalance": 160.0
+    },
+    "investedAmount": 160,
+    "days": 1,
+    "startDate": "2023-04-15T04:45:02.927Z",
+    "endDate": "2023-04-16T04:45:02.928Z",
+    "percentage": 0,
+    "currency": {
+      "cryptoId": 2,
+      "crypto": "Bitcoin",
+      "symbol": "BTC"
+    },
+    "active": true
+  },
+  {
+    "investmentId": 3,
+    "account": {
+      "accountId": 17,
+      "interestPreference": {
+        "cryptoId": 2,
+        "crypto": "Bitcoin",
+        "symbol": "BTC"
+      },
+      "accountBalance": 10000000.0
+    },
+    "investedAmount": 10000000,
+    "days": 1,
+    "startDate": "2023-04-01T20:01:36.563Z",
+    "endDate": "2023-04-02T20:01:36.564Z",
+    "percentage": 0,
+    "currency": {
+      "cryptoId": 2,
+      "crypto": "Bitcoin",
+      "symbol": "BTC"
+    },
+    "active": true
+  },
+  {
+    "investmentId": 4,
+    "account": {
+      "accountId": 8,
+      "interestPreference": {
+        "cryptoId": 2,
+        "crypto": "Bitcoin",
+        "symbol": "BTC"
+      },
+      "accountBalance": 62.0
+    },
+    "investedAmount": 62,
+    "days": 1,
+    "startDate": "2023-04-15T04:45:40.775Z",
+    "endDate": "2023-04-16T04:45:40.775Z",
+    "percentage": 0,
+    "currency": {
+      "cryptoId": 2,
+      "crypto": "Bitcoin",
+      "symbol": "BTC"
+    },
+    "active": true
+  },
+  {
+    "investmentId": 5,
+    "account": {
+      "accountId": 24,
+      "interestPreference": {
+        "cryptoId": 2,
+        "crypto": "Bitcoin",
+        "symbol": "BTC"
+      },
+      "accountBalance": 497000.0
+    },
+    "investedAmount": 5000,
+    "days": 1,
+    "startDate": "2023-03-28T09:24:07.004Z",
+    "endDate": "2023-03-29T09:24:07.004Z",
+    "percentage": 0,
+    "currency": {
+      "cryptoId": 2,
+      "crypto": "Bitcoin",
+      "symbol": "BTC"
+    },
+    "active": true
+  },
+  {
+    "investmentId": 6,
+    "account": {
+      "accountId": 28,
+      "interestPreference": {
+        "cryptoId": 2,
+        "crypto": "Bitcoin",
+        "symbol": "BTC"
+      },
+      "accountBalance": 500000.0
+    },
+    "investedAmount": 500000,
+    "days": 3,
+    "startDate": "2023-04-08T05:39:54.977Z",
+    "endDate": "2023-04-11T05:39:54.977Z",
+    "percentage": 0,
+    "currency": {
+      "cryptoId": 2,
+      "crypto": "Bitcoin",
+      "symbol": "BTC"
+    },
+    "active": true
+  },
+  {
+    "investmentId": 8,
+    "account": {
+      "accountId": 23,
+      "interestPreference": {
+        "cryptoId": 2,
+        "crypto": "Bitcoin",
+        "symbol": "BTC"
+      },
+      "accountBalance": 70.0
+    },
+    "investedAmount": 70,
+    "days": 1,
+    "startDate": "2023-04-03T05:24:49.597Z",
+    "endDate": "2023-04-04T05:24:49.597Z",
+    "percentage": 10,
+    "currency": {
+      "cryptoId": 2,
+      "crypto": "Bitcoin",
+      "symbol": "BTC"
+    },
+    "active": true
+  },
+  {
+    "investmentId": 9,
+    "account": {
+      "accountId": 39,
+      "interestPreference": {
+        "cryptoId": 2,
+        "crypto": "Bitcoin",
+        "symbol": "BTC"
+      },
+      "accountBalance": 905777.0
+    },
+    "investedAmount": 900,
+    "days": 1,
+    "startDate": "2023-04-02T02:00:09.691Z",
+    "endDate": "2023-04-03T02:00:09.692Z",
+    "percentage": 0,
+    "currency": {
+      "cryptoId": 2,
+      "crypto": "Bitcoin",
+      "symbol": "BTC"
+    },
+    "active": true
+  },
+  {
+    "investmentId": 11,
+    "account": {
+      "accountId": 18,
+      "interestPreference": {
+        "cryptoId": 2,
+        "crypto": "Bitcoin",
+        "symbol": "BTC"
+      },
+      "accountBalance": 500.0
+    },
+    "investedAmount": 500,
+    "days": 1,
+    "startDate": "2023-04-02T17:44:43.858Z",
+    "endDate": "2023-04-03T17:44:43.858Z",
+    "percentage": 0,
+    "currency": {
+      "cryptoId": 2,
+      "crypto": "Bitcoin",
+      "symbol": "BTC"
+    },
+    "active": true
+  },
+  {
+    "investmentId": 12,
+    "account": {
+      "accountId": 40,
+      "interestPreference": {
+        "cryptoId": 2,
+        "crypto": "Bitcoin",
+        "symbol": "BTC"
+      },
+      "accountBalance": 220.0
+    },
+    "investedAmount": 320,
+    "days": 1,
+    "startDate": "2023-04-03T05:28:25.951Z",
+    "endDate": "2023-04-04T05:28:25.952Z",
+    "percentage": 10,
+    "currency": {
+      "cryptoId": 2,
+      "crypto": "Bitcoin",
+      "symbol": "BTC"
+    },
+    "active": true
+  },
+  {
+    "investmentId": 13,
+    "account": {
+      "accountId": 31,
+      "interestPreference": {
+        "cryptoId": 2,
+        "crypto": "Bitcoin",
+        "symbol": "BTC"
+      },
+      "accountBalance": 30.0
+    },
+    "investedAmount": 30,
+    "days": 1,
+    "startDate": "2023-04-12T05:38:04.626Z",
+    "endDate": "2023-04-13T05:38:04.626Z",
+    "percentage": 0,
+    "currency": {
+      "cryptoId": 2,
+      "crypto": "Bitcoin",
+      "symbol": "BTC"
+    },
+    "active": true
+  }
+]

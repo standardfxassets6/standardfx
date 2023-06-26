@@ -1,0 +1,2048 @@
+[
+  {
+    "addressId": 1,
+    "user": {
+      "fullName": "MBOUNDA Marcel",
+      "email": "mayenamarcel2@gmail.com",
+      "password": "Marcel2@",
+      "referral": null,
+      "referralId": "MBOUNDA Marcel-UFls7E",
+      "verificationCode": null,
+      "date": "2023-03-26T16:05:19.501Z",
+      "account": {
+        "accountId": 8,
+        "interestPreference": {
+          "cryptoId": 2,
+          "crypto": "Bitcoin",
+          "symbol": "BTC"
+        },
+        "accountBalance": 62.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 8,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "066283505",
+    "country": {
+      "countryId": 774,
+      "countryName": "Gabon"
+    },
+    "state": {
+      "stateId": 1318,
+      "stateName": "Estuaire Province",
+      "country": {
+        "countryId": 774,
+        "countryName": "Gabon"
+      }
+    },
+    "city": "Moanda",
+    "addressLine1": "Belle vue",
+    "addressLine2": "",
+    "zipCode": "00000",
+    "source": "Investissements",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 2,
+    "user": {
+      "fullName": "Promise ",
+      "email": "jessicarion536@gmail.com",
+      "password": "promise13$",
+      "referral": null,
+      "referralId": "Promise-bUgv7X",
+      "verificationCode": null,
+      "date": "2023-03-26T18:38:31.309Z",
+      "account": {
+        "accountId": 18,
+        "interestPreference": {
+          "cryptoId": 2,
+          "crypto": "Bitcoin",
+          "symbol": "BTC"
+        },
+        "accountBalance": 500.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 18,
+        "deposit": 500,
+        "balance": 100,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "ADMIN",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "07010493490",
+    "country": {
+      "countryId": 4,
+      "countryName": "Afghanistan"
+    },
+    "state": {
+      "stateId": 1,
+      "stateName": "Badakhshan",
+      "country": {
+        "countryId": 4,
+        "countryName": "Afghanistan"
+      }
+    },
+    "city": "South Africa ",
+    "addressLine1": "No 17 cuma South  Africa ",
+    "addressLine2": "Block 67",
+    "zipCode": "00000",
+    "source": "Investments",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 3,
+    "user": {
+      "fullName": "Filagot tesfaye ",
+      "email": "filagottesfaye03@gmail.com",
+      "password": "1111",
+      "referral": null,
+      "referralId": "Filagot tesfaye-4TsyBL",
+      "verificationCode": null,
+      "date": "2023-03-26T18:35:18.081Z",
+      "account": {
+        "accountId": 17,
+        "interestPreference": {
+          "cryptoId": 2,
+          "crypto": "Bitcoin",
+          "symbol": "BTC"
+        },
+        "accountBalance": 10000000.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 17,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "07080480057",
+    "country": {
+      "countryId": 4,
+      "countryName": "Afghanistan"
+    },
+    "state": {
+      "stateId": 1,
+      "stateName": "Badakhshan",
+      "country": {
+        "countryId": 4,
+        "countryName": "Afghanistan"
+      }
+    },
+    "city": "Gondar Ethiopia ",
+    "addressLine1": "Benson 1",
+    "addressLine2": "",
+    "zipCode": "00000",
+    "source": "Investments",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 4,
+    "user": {
+      "fullName": "Mohammad Hafiz",
+      "email": "wsglow11@gmail.com",
+      "password": "12341235",
+      "referral": null,
+      "referralId": "Mohammad Hafiz-Tgus5r",
+      "verificationCode": null,
+      "date": "2023-03-26T16:06:13.495Z",
+      "account": {
+        "accountId": 9,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 9,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "+971582093606",
+    "country": {
+      "countryId": 2304,
+      "countryName": "United Arab Emirates"
+    },
+    "state": {
+      "stateId": 4385,
+      "stateName": "Abu Dhabi Emirate",
+      "country": {
+        "countryId": 2304,
+        "countryName": "United Arab Emirates"
+      }
+    },
+    "city": "Dubai",
+    "addressLine1": "12345",
+    "addressLine2": "",
+    "zipCode": "0000",
+    "source": "Investments,Employment",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 5,
+    "user": {
+      "fullName": "JOHN WANJAI MURIITHI ",
+      "email": "jwanjai254@gmail.com",
+      "password": "@parisLIMURU+254",
+      "referral": null,
+      "referralId": "JOHN WANJAI MURIITHI-HnlRp7",
+      "verificationCode": null,
+      "date": "2023-03-26T19:03:31.297Z",
+      "account": {
+        "accountId": 20,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 20,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "+254708159317",
+    "country": {
+      "countryId": 1114,
+      "countryName": "Kenya"
+    },
+    "state": {
+      "stateId": 1968,
+      "stateName": "Kiambu County",
+      "country": {
+        "countryId": 1114,
+        "countryName": "Kenya"
+      }
+    },
+    "city": "NAIROBI ",
+    "addressLine1": "+254708159317",
+    "addressLine2": "+254741985837",
+    "zipCode": "00217",
+    "source": "Ownership of a business",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 6,
+    "user": {
+      "fullName": "Jeanne Drew",
+      "email": "JeanneDrew2233@gmail.com",
+      "password": "Mario234",
+      "referral": null,
+      "referralId": "Jeanne Drew-CzpJ6F",
+      "verificationCode": null,
+      "date": "2023-03-26T16:00:31.413Z",
+      "account": {
+        "accountId": 2,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 2,
+        "deposit": 500,
+        "balance": 50,
+        "profit": 50,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "5705778188",
+    "country": {
+      "countryId": 2324,
+      "countryName": "United States"
+    },
+    "state": {
+      "stateId": 4643,
+      "stateName": "Arkansas",
+      "country": {
+        "countryId": 2324,
+        "countryName": "United States"
+      }
+    },
+    "city": "Whitehall",
+    "addressLine1": "5521 cheatham ave",
+    "addressLine2": "",
+    "zipCode": "71602",
+    "source": "Investments,Other",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 7,
+    "user": {
+      "fullName": "Mufu George",
+      "email": "mufugeorge7@gmail.com",
+      "password": "wumfert",
+      "referral": null,
+      "referralId": "Mufu George-4Wgula",
+      "verificationCode": null,
+      "date": "2023-03-26T16:01:23.995Z",
+      "account": {
+        "accountId": 3,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 3,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "+237676165848",
+    "country": {
+      "countryId": 374,
+      "countryName": "Cameroon"
+    },
+    "state": {
+      "stateId": 674,
+      "stateName": "Littoral",
+      "country": {
+        "countryId": 374,
+        "countryName": "Cameroon"
+      }
+    },
+    "city": "Douala",
+    "addressLine1": "Mabanda",
+    "addressLine2": "",
+    "zipCode": "00000",
+    "source": "Other",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 8,
+    "user": {
+      "fullName": "AKANKWATSA DANSON",
+      "email": "akankwatsadanson6@gmail.com",
+      "password": "Danson27",
+      "referral": null,
+      "referralId": "AKANKWATSA DANSON-ZAzRm1",
+      "verificationCode": null,
+      "date": "2023-03-26T16:02:06.076Z",
+      "account": {
+        "accountId": 4,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 4,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "+256705813691",
+    "country": {
+      "countryId": 2284,
+      "countryName": "Uganda"
+    },
+    "state": {
+      "stateId": 4271,
+      "stateName": "Isingiro District",
+      "country": {
+        "countryId": 2284,
+        "countryName": "Uganda"
+      }
+    },
+    "city": "Kabingo",
+    "addressLine1": "Kabit",
+    "addressLine2": "",
+    "zipCode": "Kabingo",
+    "source": "Other",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 9,
+    "user": {
+      "fullName": "Fabrice manfo",
+      "email": "fabricemanfo23@gmail.com",
+      "password": "Top-lait23",
+      "referral": null,
+      "referralId": "Fabrice manfo-tKaqmY",
+      "verificationCode": null,
+      "date": "2023-03-26T16:02:48.173Z",
+      "account": {
+        "accountId": 5,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 5,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "237659081064",
+    "country": {
+      "countryId": 374,
+      "countryName": "Cameroon"
+    },
+    "state": {
+      "stateId": 679,
+      "stateName": "West",
+      "country": {
+        "countryId": 374,
+        "countryName": "Cameroon"
+      }
+    },
+    "city": "Dschang",
+    "addressLine1": "Penka Michel",
+    "addressLine2": "",
+    "zipCode": "43",
+    "source": "Investments",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 10,
+    "user": {
+      "fullName": "Gideon Kibet kemboi",
+      "email": "gideonkibetkemboi03@gmail.com",
+      "password": "40773496Gk",
+      "referral": null,
+      "referralId": "Gideon Kibet kemboi-4ZG7HK",
+      "verificationCode": null,
+      "date": "2023-03-26T16:03:40.889Z",
+      "account": {
+        "accountId": 6,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 6,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "0712570683",
+    "country": {
+      "countryId": 1114,
+      "countryName": "Kenya"
+    },
+    "state": {
+      "stateId": 1954,
+      "stateName": "Bomet County",
+      "country": {
+        "countryId": 1114,
+        "countryName": "Kenya"
+      }
+    },
+    "city": "Nairobi",
+    "addressLine1": "172-20406 sotik",
+    "addressLine2": "",
+    "zipCode": "20406",
+    "source": "Other,Inheritance",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 11,
+    "user": {
+      "fullName": "Anthony Opayo",
+      "email": "anthonyopayo@gmail.com",
+      "password": "Anthony@12131",
+      "referral": null,
+      "referralId": "Anthony Opayo-t9jFou",
+      "verificationCode": null,
+      "date": "2023-03-26T16:04:31.058Z",
+      "account": {
+        "accountId": 7,
+        "interestPreference": {
+          "cryptoId": 2,
+          "crypto": "Bitcoin",
+          "symbol": "BTC"
+        },
+        "accountBalance": 8660.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 7,
+        "deposit": 500,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "0788697500",
+    "country": {
+      "countryId": 2284,
+      "countryName": "Uganda"
+    },
+    "state": {
+      "stateId": 4282,
+      "stateName": "Kampala District",
+      "country": {
+        "countryId": 2284,
+        "countryName": "Uganda"
+      }
+    },
+    "city": "Kampala",
+    "addressLine1": "Kawempe",
+    "addressLine2": "",
+    "zipCode": "256",
+    "source": "Ownership of a business",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 12,
+    "user": {
+      "fullName": "Lunga Mvuyana",
+      "email": "lunga.mv@gmail.com",
+      "password": "Mvuyana02",
+      "referral": null,
+      "referralId": "Lunga Mvuyana-u4wd3v",
+      "verificationCode": null,
+      "date": "2023-03-26T16:08:36.944Z",
+      "account": {
+        "accountId": 12,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 12,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "+27659109054",
+    "country": {
+      "countryId": 2034,
+      "countryName": "South Africa"
+    },
+    "state": {
+      "stateId": 3754,
+      "stateName": "KwaZulu-Natal",
+      "country": {
+        "countryId": 2034,
+        "countryName": "South Africa"
+      }
+    },
+    "city": "Durban",
+    "addressLine1": "33 Palm Place",
+    "addressLine2": "",
+    "zipCode": "3610",
+    "source": "Employment",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 13,
+    "user": {
+      "fullName": "Anna Simeonova Angelova",
+      "email": "kitty2@abv.bg",
+      "password": "bel22365",
+      "referral": null,
+      "referralId": "Anna Simeonova Angelova-XmUuxm",
+      "verificationCode": null,
+      "date": "2023-03-26T16:09:34.595Z",
+      "account": {
+        "accountId": 13,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 13,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "+359889086683",
+    "country": {
+      "countryId": 334,
+      "countryName": "Bulgaria"
+    },
+    "state": {
+      "stateId": 563,
+      "stateName": "Sofia City Province",
+      "country": {
+        "countryId": 334,
+        "countryName": "Bulgaria"
+      }
+    },
+    "city": "Sofia",
+    "addressLine1": "Alley Qvorov 73",
+    "addressLine2": "",
+    "zipCode": "1111",
+    "source": "Other",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 14,
+    "user": {
+      "fullName": "Salvador Antonio Holguin Bustillos",
+      "email": "chava13066.9420@gmail.com",
+      "password": "Chaco2018",
+      "referral": null,
+      "referralId": "Salvador Antonio Holguin Bustillos-yyYK83",
+      "verificationCode": null,
+      "date": "2023-03-26T19:38:38.539Z",
+      "account": {
+        "accountId": 21,
+        "interestPreference": {
+          "cryptoId": 2,
+          "crypto": "Bitcoin",
+          "symbol": "BTC"
+        },
+        "accountBalance": 160.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 21,
+        "deposit": 50,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "6491140592",
+    "country": {
+      "countryId": 1414,
+      "countryName": "Mexico"
+    },
+    "state": {
+      "stateId": 2625,
+      "stateName": "Chihuahua",
+      "country": {
+        "countryId": 1414,
+        "countryName": "Mexico"
+      }
+    },
+    "city": "Chihuahua",
+    "addressLine1": "Madroño 231",
+    "addressLine2": "",
+    "zipCode": "31116",
+    "source": "Otro",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 15,
+    "user": {
+      "fullName": "Alex Nkasah",
+      "email": "alexnkasah3@gmail.com",
+      "password": "Saint321",
+      "referral": null,
+      "referralId": "Alex Nkasah-ryvCTn",
+      "verificationCode": null,
+      "date": "2023-03-26T16:10:26.657Z",
+      "account": {
+        "accountId": 14,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 14,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "234671849104",
+    "country": {
+      "countryId": 374,
+      "countryName": "Cameroon"
+    },
+    "state": {
+      "stateId": 676,
+      "stateName": "Northwest",
+      "country": {
+        "countryId": 374,
+        "countryName": "Cameroon"
+      }
+    },
+    "city": "Bamenda",
+    "addressLine1": "T-junction",
+    "addressLine2": "",
+    "zipCode": "237",
+    "source": "Investments",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 16,
+    "user": {
+      "fullName": "Namate Batuke ",
+      "email": "namatemorrison@gmail.com",
+      "password": "Namate2021$@-",
+      "referral": null,
+      "referralId": "Namate Batuke-syjepn",
+      "verificationCode": null,
+      "date": "2023-03-27T20:09:55.460Z",
+      "account": {
+        "accountId": 22,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 22,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "+260761434844",
+    "country": {
+      "countryId": 2454,
+      "countryName": "Zambia"
+    },
+    "state": {
+      "stateId": 4857,
+      "stateName": "Lusaka Province",
+      "country": {
+        "countryId": 2454,
+        "countryName": "Zambia"
+      }
+    },
+    "city": "Lusaka ",
+    "addressLine1": "Kamwala South ",
+    "addressLine2": "Vera Chiluba road,Kamwala South,Lusaka,Zm",
+    "zipCode": "10010",
+    "source": "Other",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 17,
+    "user": {
+      "fullName": "Joshua Abamba",
+      "email": "joshuaabambajr@gmail.com",
+      "password": "standard",
+      "referral": null,
+      "referralId": "Joshua Abamba-g8YS77",
+      "verificationCode": null,
+      "date": "2023-03-28T05:49:50.898Z",
+      "account": {
+        "accountId": 23,
+        "interestPreference": {
+          "cryptoId": 2,
+          "crypto": "Bitcoin",
+          "symbol": "BTC"
+        },
+        "accountBalance": 70.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 23,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "08123456789",
+    "country": {
+      "countryId": 1604,
+      "countryName": "Nigeria"
+    },
+    "state": {
+      "stateId": 2933,
+      "stateName": "Cross River State",
+      "country": {
+        "countryId": 1604,
+        "countryName": "Nigeria"
+      }
+    },
+    "city": "Calabar ",
+    "addressLine1": "12345",
+    "addressLine2": "",
+    "zipCode": "00000",
+    "source": "Investments",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 18,
+    "user": {
+      "fullName": "viviansophia",
+      "email": "viviansophia784@gmail.com",
+      "password": "9999",
+      "referral": null,
+      "referralId": "viviansophia-K3wk4f",
+      "verificationCode": null,
+      "date": "2023-03-28T09:06:12.994Z",
+      "account": {
+        "accountId": 24,
+        "interestPreference": {
+          "cryptoId": 2,
+          "crypto": "Bitcoin",
+          "symbol": "BTC"
+        },
+        "accountBalance": 497000.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 24,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "07010493490",
+    "country": {
+      "countryId": 4,
+      "countryName": "Afghanistan"
+    },
+    "state": {
+      "stateId": 1,
+      "stateName": "Badakhshan",
+      "country": {
+        "countryId": 4,
+        "countryName": "Afghanistan"
+      }
+    },
+    "city": "South Africa ",
+    "addressLine1": "No 17 cuma South  Africa ",
+    "addressLine2": "",
+    "zipCode": "1111",
+    "source": "Ownership of a business",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 19,
+    "user": {
+      "fullName": "Ntemogang Ntemogang ",
+      "email": "mazolantemogang@gmail.com",
+      "password": "@ntemogangN1",
+      "referral": null,
+      "referralId": "Ntemogang Ntemogang-rfKYUV",
+      "verificationCode": null,
+      "date": "2023-03-28T16:54:13.326Z",
+      "account": {
+        "accountId": 25,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 25,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "+26774882746",
+    "country": {
+      "countryId": 284,
+      "countryName": "Botswana"
+    },
+    "state": {
+      "stateId": 509,
+      "stateName": "Ngamiland",
+      "country": {
+        "countryId": 284,
+        "countryName": "Botswana"
+      }
+    },
+    "city": "Gaborone",
+    "addressLine1": "Botswana, Shakawe ",
+    "addressLine2": "Shakawe, ndundu ward street ",
+    "zipCode": "0000",
+    "source": "Investments",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 20,
+    "user": {
+      "fullName": "Niyigaba jean ",
+      "email": "vallotton1000@gmail.com",
+      "password": "vallotton@JEAN0055",
+      "referral": {
+        "fullName": "Filagot tesfaye ",
+        "email": "filagottesfaye03@gmail.com",
+        "password": "1111",
+        "referral": null,
+        "referralId": "Filagot tesfaye-4TsyBL",
+        "verificationCode": null,
+        "date": "2023-03-26T18:35:18.081Z",
+        "account": {
+          "accountId": 17,
+          "interestPreference": {
+            "cryptoId": 2,
+            "crypto": "Bitcoin",
+            "symbol": "BTC"
+          },
+          "accountBalance": 10000000.0
+        },
+        "tradingAccount": {
+          "tradingAccountId": 17,
+          "deposit": 0,
+          "balance": 0,
+          "profit": 0,
+          "trader": null
+        },
+        "role": "USER",
+        "active": true,
+        "accountNonLocked": true,
+        "accountNonExpired": true,
+        "credentialNonExpired": true
+      },
+      "referralId": "Niyigaba jean-Gpr4Vw",
+      "verificationCode": null,
+      "date": "2023-03-29T09:00:45.602Z",
+      "account": {
+        "accountId": 26,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 26,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "+250788922266",
+    "country": {
+      "countryId": 1824,
+      "countryName": "Rwanda"
+    },
+    "state": {
+      "stateId": 3363,
+      "stateName": "Southern Province",
+      "country": {
+        "countryId": 1824,
+        "countryName": "Rwanda"
+      }
+    },
+    "city": "Muhanga",
+    "addressLine1": "Muhanga-kigali",
+    "addressLine2": "Muhanga-kamonyi",
+    "zipCode": "None",
+    "source": "Other",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 21,
+    "user": {
+      "fullName": "Alison ",
+      "email": "alison2837wtw@gmail.com",
+      "password": "AAAA",
+      "referral": null,
+      "referralId": "Alison-EJ7FMt",
+      "verificationCode": null,
+      "date": "2023-03-30T13:15:31.283Z",
+      "account": {
+        "accountId": 28,
+        "interestPreference": {
+          "cryptoId": 2,
+          "crypto": "Bitcoin",
+          "symbol": "BTC"
+        },
+        "accountBalance": 500000.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 28,
+        "deposit": 5000,
+        "balance": 1735197,
+        "profit": 20,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "000⁰0",
+    "country": {
+      "countryId": 1724,
+      "countryName": "Peru"
+    },
+    "state": {
+      "stateId": 3070,
+      "stateName": "Amazonas",
+      "country": {
+        "countryId": 1724,
+        "countryName": "Peru"
+      }
+    },
+    "city": "Givd",
+    "addressLine1": "Williams place 474",
+    "addressLine2": "Girbi 272",
+    "zipCode": "0000",
+    "source": "Investments",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 22,
+    "user": {
+      "fullName": "Brandon Akem",
+      "email": "brandonakem87@gmail.com",
+      "password": "2345werT",
+      "referral": {
+        "fullName": "Filagot tesfaye ",
+        "email": "filagottesfaye03@gmail.com",
+        "password": "1111",
+        "referral": null,
+        "referralId": "Filagot tesfaye-4TsyBL",
+        "verificationCode": null,
+        "date": "2023-03-26T18:35:18.081Z",
+        "account": {
+          "accountId": 17,
+          "interestPreference": {
+            "cryptoId": 2,
+            "crypto": "Bitcoin",
+            "symbol": "BTC"
+          },
+          "accountBalance": 10000000.0
+        },
+        "tradingAccount": {
+          "tradingAccountId": 17,
+          "deposit": 0,
+          "balance": 0,
+          "profit": 0,
+          "trader": null
+        },
+        "role": "USER",
+        "active": true,
+        "accountNonLocked": true,
+        "accountNonExpired": true,
+        "credentialNonExpired": true
+      },
+      "referralId": "Brandon Akem-1caS3n",
+      "verificationCode": null,
+      "date": "2023-03-30T23:42:12.984Z",
+      "account": {
+        "accountId": 29,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 29,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "672317975",
+    "country": {
+      "countryId": 374,
+      "countryName": "Cameroon"
+    },
+    "state": {
+      "stateId": 676,
+      "stateName": "Northwest",
+      "country": {
+        "countryId": 374,
+        "countryName": "Cameroon"
+      }
+    },
+    "city": "Bamenda",
+    "addressLine1": "Mile 4, Nkwen",
+    "addressLine2": "Mile 5, Nkwen",
+    "zipCode": "237672317975",
+    "source": "Other",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 23,
+    "user": {
+      "fullName": "Zihle",
+      "email": "xziphozihle@gmail.com",
+      "password": "MiningB7",
+      "referral": null,
+      "referralId": "Zihle-P1us4S",
+      "verificationCode": null,
+      "date": "2023-03-31T09:23:29.938Z",
+      "account": {
+        "accountId": 31,
+        "interestPreference": {
+          "cryptoId": 2,
+          "crypto": "Bitcoin",
+          "symbol": "BTC"
+        },
+        "accountBalance": 30.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 31,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "+27729336270",
+    "country": {
+      "countryId": 2034,
+      "countryName": "South Africa"
+    },
+    "state": {
+      "stateId": 3753,
+      "stateName": "Gauteng",
+      "country": {
+        "countryId": 2034,
+        "countryName": "South Africa"
+      }
+    },
+    "city": "Johannesburg",
+    "addressLine1": "Parkland, 467 George Road, Noordwyk Unit 50, Midrand",
+    "addressLine2": "",
+    "zipCode": "1697",
+    "source": "Other",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 24,
+    "user": {
+      "fullName": "Kretty ",
+      "email": "carolinekretty75@gmail.com",
+      "password": "0000",
+      "referral": null,
+      "referralId": "Kretty-XYUyin",
+      "verificationCode": null,
+      "date": "2023-04-01T06:46:53.057Z",
+      "account": {
+        "accountId": 35,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 35,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "+26774288297",
+    "country": {
+      "countryId": 284,
+      "countryName": "Botswana"
+    },
+    "state": {
+      "stateId": 504,
+      "stateName": "Central District",
+      "country": {
+        "countryId": 284,
+        "countryName": "Botswana"
+      }
+    },
+    "city": "Go5 h",
+    "addressLine1": "RBDN ",
+    "addressLine2": "",
+    "zipCode": "0000",
+    "source": "Sale of Property",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 25,
+    "user": {
+      "fullName": "Chrispine Mponda",
+      "email": "christophermponda3@gmail.com",
+      "password": "slamg1991",
+      "referral": null,
+      "referralId": "Chrispine Mponda-KfNRPG",
+      "verificationCode": null,
+      "date": "2023-04-01T23:19:13.611Z",
+      "account": {
+        "accountId": 38,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 38,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "0970365209",
+    "country": {
+      "countryId": 2454,
+      "countryName": "Zambia"
+    },
+    "state": {
+      "stateId": 4853,
+      "stateName": "Central Province",
+      "country": {
+        "countryId": 2454,
+        "countryName": "Zambia"
+      }
+    },
+    "city": "Lusaka",
+    "addressLine1": "Lusaka",
+    "addressLine2": "Lusaka",
+    "zipCode": "10101",
+    "source": "Other",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 26,
+    "user": {
+      "fullName": "John ",
+      "email": "omarjohn104@gmail.com",
+      "password": "0000",
+      "referral": null,
+      "referralId": "John-ezmqH2",
+      "verificationCode": null,
+      "date": "2023-04-02T01:50:01.433Z",
+      "account": {
+        "accountId": 39,
+        "interestPreference": {
+          "cryptoId": 2,
+          "crypto": "Bitcoin",
+          "symbol": "BTC"
+        },
+        "accountBalance": 905777.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 39,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "666666",
+    "country": {
+      "countryId": 4,
+      "countryName": "Afghanistan"
+    },
+    "state": {
+      "stateId": 1,
+      "stateName": "Badakhshan",
+      "country": {
+        "countryId": 4,
+        "countryName": "Afghanistan"
+      }
+    },
+    "city": "Go5 wife ",
+    "addressLine1": "New York ",
+    "addressLine2": "",
+    "zipCode": "Vhhhgxu",
+    "source": "Employment",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 27,
+    "user": {
+      "fullName": "Samuel Akor",
+      "email": "soft6dev@gmail.com",
+      "password": "standard",
+      "referral": null,
+      "referralId": "Samuel Akor-69O5tb",
+      "verificationCode": null,
+      "date": "2023-04-03T05:25:43.294Z",
+      "account": {
+        "accountId": 40,
+        "interestPreference": {
+          "cryptoId": 2,
+          "crypto": "Bitcoin",
+          "symbol": "BTC"
+        },
+        "accountBalance": 220.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 40,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "08123456789",
+    "country": {
+      "countryId": 2324,
+      "countryName": "United States"
+    },
+    "state": {
+      "stateId": 4645,
+      "stateName": "California",
+      "country": {
+        "countryId": 2324,
+        "countryName": "United States"
+      }
+    },
+    "city": "Brooklyn",
+    "addressLine1": "1234567",
+    "addressLine2": "",
+    "zipCode": "0000",
+    "source": "Investments",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 28,
+    "user": {
+      "fullName": "Orlanemk",
+      "email": "OrlaneMK77@gmail.com",
+      "password": "adolfolove123",
+      "referral": null,
+      "referralId": "Orlanemk-j4lg4Z",
+      "verificationCode": null,
+      "date": "2023-04-03T10:26:26.111Z",
+      "account": {
+        "accountId": 41,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 41,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "074888034",
+    "country": {
+      "countryId": 774,
+      "countryName": "Gabon"
+    },
+    "state": {
+      "stateId": 1318,
+      "stateName": "Estuaire Province",
+      "country": {
+        "countryId": 774,
+        "countryName": "Gabon"
+      }
+    },
+    "city": "Angondje",
+    "addressLine1": "Libreville angondje",
+    "addressLine2": "",
+    "zipCode": "99328",
+    "source": "Investissements",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 29,
+    "user": {
+      "fullName": "Viterman",
+      "email": "musinguziadolph0@gmail.com",
+      "password": "viterman",
+      "referral": null,
+      "referralId": "Viterman-1HPICg",
+      "verificationCode": null,
+      "date": "2023-04-03T11:52:42.155Z",
+      "account": {
+        "accountId": 43,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 43,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "0761029952",
+    "country": {
+      "countryId": 2284,
+      "countryName": "Uganda"
+    },
+    "state": {
+      "stateId": 4303,
+      "stateName": "Kyegegwa District",
+      "country": {
+        "countryId": 2284,
+        "countryName": "Uganda"
+      }
+    },
+    "city": "Kampala",
+    "addressLine1": "Kyegegwa",
+    "addressLine2": "Kyegegwa",
+    "zipCode": "86",
+    "source": "Inheritance,Ownership of a business",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 30,
+    "user": {
+      "fullName": "Nwetbe lordwill",
+      "email": "lordwillnwetbe@gmail.com",
+      "password": "lithium2004",
+      "referral": null,
+      "referralId": "Nwetbe lordwill-hR8abL",
+      "verificationCode": null,
+      "date": "2023-04-06T23:28:59.011Z",
+      "account": {
+        "accountId": 46,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 46,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "681084421",
+    "country": {
+      "countryId": 374,
+      "countryName": "Cameroon"
+    },
+    "state": {
+      "stateId": 678,
+      "stateName": "Southwest",
+      "country": {
+        "countryId": 374,
+        "countryName": "Cameroon"
+      }
+    },
+    "city": "Buea",
+    "addressLine1": "23427",
+    "addressLine2": "12623",
+    "zipCode": "00237",
+    "source": "Investments",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 31,
+    "user": {
+      "fullName": "Fruit gray and bight",
+      "email": "frubrayanbright@gmail.com",
+      "password": "gokusan45",
+      "referral": null,
+      "referralId": "Fruit gray and bight-LLFxWy",
+      "verificationCode": null,
+      "date": "2023-04-08T12:16:15.989Z",
+      "account": {
+        "accountId": 47,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 47,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "672961604",
+    "country": {
+      "countryId": 374,
+      "countryName": "Cameroon"
+    },
+    "state": {
+      "stateId": 676,
+      "stateName": "Northwest",
+      "country": {
+        "countryId": 374,
+        "countryName": "Cameroon"
+      }
+    },
+    "city": "Yaounde",
+    "addressLine1": "Emana",
+    "addressLine2": "Rial berlin",
+    "zipCode": "Po box",
+    "source": "Other",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 32,
+    "user": {
+      "fullName": "Oresireletse ",
+      "email": "mabuselaoresireletse@gmail.com",
+      "password": "Mabusela2007",
+      "referral": null,
+      "referralId": "Oresireletse-DpFwmj",
+      "verificationCode": null,
+      "date": "2023-04-08T13:19:33.428Z",
+      "account": {
+        "accountId": 48,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 48,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "0611564399",
+    "country": {
+      "countryId": 2034,
+      "countryName": "South Africa"
+    },
+    "state": {
+      "stateId": 3753,
+      "stateName": "Gauteng",
+      "country": {
+        "countryId": 2034,
+        "countryName": "South Africa"
+      }
+    },
+    "city": "Johannesburg ",
+    "addressLine1": "1032 sandile street",
+    "addressLine2": "1032 sandile street ",
+    "zipCode": "None",
+    "source": "Other",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 33,
+    "user": {
+      "fullName": "Saviour ",
+      "email": "ubisaviour96@gmail.com",
+      "password": "123456",
+      "referral": null,
+      "referralId": "Saviour-CQMnKW",
+      "verificationCode": null,
+      "date": "2023-04-08T17:16:47.790Z",
+      "account": {
+        "accountId": 49,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 49,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "08106433981",
+    "country": {
+      "countryId": 1604,
+      "countryName": "Nigeria"
+    },
+    "state": {
+      "stateId": 2933,
+      "stateName": "Cross River State",
+      "country": {
+        "countryId": 1604,
+        "countryName": "Nigeria"
+      }
+    },
+    "city": "Calabar",
+    "addressLine1": "No 2 Anantigha Lane Calabar South",
+    "addressLine2": "",
+    "zipCode": "540212",
+    "source": "Ownership of a business",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 34,
+    "user": {
+      "fullName": "Ntungwe Deland ",
+      "email": "ntungwedylan20@gmail.com",
+      "password": "peaceful",
+      "referral": null,
+      "referralId": "Ntungwe Deland-5R8Z0n",
+      "verificationCode": null,
+      "date": "2023-04-10T13:30:28.401Z",
+      "account": {
+        "accountId": 53,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 53,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "+237672555900",
+    "country": {
+      "countryId": 374,
+      "countryName": "Cameroon"
+    },
+    "state": {
+      "stateId": 671,
+      "stateName": "Centre",
+      "country": {
+        "countryId": 374,
+        "countryName": "Cameroon"
+      }
+    },
+    "city": "Yaounde",
+    "addressLine1": "Nkolfoulou",
+    "addressLine2": "",
+    "zipCode": "00000",
+    "source": "Employment",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 35,
+    "user": {
+      "fullName": "Churchill ",
+      "email": "c46566052@gmail.com",
+      "password": "update77",
+      "referral": null,
+      "referralId": "Churchill-Wrs2jv",
+      "verificationCode": null,
+      "date": "2023-04-10T15:02:02.890Z",
+      "account": {
+        "accountId": 54,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 54,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "+154142393353",
+    "country": {
+      "countryId": 2324,
+      "countryName": "United States"
+    },
+    "state": {
+      "stateId": 4686,
+      "stateName": "Oregon",
+      "country": {
+        "countryId": 2324,
+        "countryName": "United States"
+      }
+    },
+    "city": "Portland ",
+    "addressLine1": "Beaver creek candy road ",
+    "addressLine2": "",
+    "zipCode": "97045",
+    "source": "Ownership of a business,Employment",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  },
+  {
+    "addressId": 0,
+    "user": {
+      "fullName": "Perfect love23",
+      "email": "perfectlove2345@gmail.com",
+      "password": "standard",
+      "referral": null,
+      "referralId": "Perfect love23-3xpYbs",
+      "verificationCode": null,
+      "date": "2023-04-15T02:40:16.501Z",
+      "account": {
+        "accountId": 0,
+        "interestPreference": null,
+        "accountBalance": 0.0
+      },
+      "tradingAccount": {
+        "tradingAccountId": 0,
+        "deposit": 0,
+        "balance": 0,
+        "profit": 0,
+        "trader": null
+      },
+      "role": "USER",
+      "active": true,
+      "accountNonLocked": true,
+      "accountNonExpired": true,
+      "credentialNonExpired": true
+    },
+    "mobileNumber": "08123456789",
+    "country": {
+      "countryId": 2454,
+      "countryName": "Zambia"
+    },
+    "state": {
+      "stateId": 4853,
+      "stateName": "Central Province",
+      "country": {
+        "countryId": 2454,
+        "countryName": "Zambia"
+      }
+    },
+    "city": "Mile 22",
+    "addressLine1": "123456789",
+    "addressLine2": "",
+    "zipCode": "0000",
+    "source": "Investments",
+    "accountType": {
+      "accountTypeId": 1,
+      "accountType": "individual"
+    },
+    "dob": null,
+    "ssn": null,
+    "citizen": false
+  }
+]
